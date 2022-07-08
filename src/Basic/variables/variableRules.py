@@ -10,7 +10,7 @@ sayi-5 = 4
 _number3 = 5
 number1 = 6
 number = 7
-sayı = 10 # Türkçe karakter desteği var fakat kullanmamanızı öneririrz!
+sayı = 10 # Türkçe karakter desteği var fakat kullanmamanızı öneririz!
 sayi = 10
 
 yas = 22 # Büyük küçük harf duyarlılığı vardır.
