@@ -12,6 +12,6 @@ print('My name is {1} {0}'.format(name, surname)) # 1 yerine surname, 0 yerine n
 print("My name is {n} {s}.".format(n=name, s=surname)) # Takma ad kullanabiliriz.
 
 
-print("My name is {} {}. I'm {} years old.".format(name, surname, age)) # Takma ad kullanabiliriz.
+print("My name is {} {}. I'm {} years old.".format(name, surname, age))
 print("My name is {} {}. I'm {} years old. {}".format(name, surname, age, age)) # Takma ad kullanabiliriz.
 
