@@ -13,5 +13,5 @@ print("My name is {n} {s}.".format(n=name, s=surname)) # Takma ad kullanabiliriz
 
 
 print("My name is {} {}. I'm {} years old.".format(name, surname, age))
-print("My name is {} {}. I'm {} years old. {}".format(name, surname, age, age)) # Takma ad kullanabiliriz.
+print("My name is {} {}. I'm {} years old. {}".format(name, surname, age, age)) # Birden fazla kez kullanacağımız zaman tekrar ekleyebilir veya takma ad kullanarak daha rahat yapabiliriz
 
