@@ -1,5 +1,5 @@
 name = "Abdurrahman" # String
-surname = "Cosar" # String
+surname = "cosar" # String
 age = "17" # String
 id = "452143215465245123" # ID, Kimlik No vs. String değerdir.
 
@@ -7,6 +7,7 @@ chars = "a" # Tek karakterler Python'da string olarak geçer. Fakat diğer dille
 
 message = "My name is " + name + ". My surname is " + surname + ". I'm " + age + " years old."
 # Stringler, Stringler ile işleme sokulabilir.
+
 
 print(message)
 print(type(name)) 
