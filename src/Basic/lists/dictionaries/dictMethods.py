@@ -36,7 +36,7 @@ print(cI)
 cI = carInformation.copy() # Bu şekilde farklı bir kopyasını çıkarabiliriz.
 
 
-del carInformation("model") # model bilgisini sileriz
+del carInformation["model"] # model bilgisini sileriz
 del carInformation # sözlüğü siler
 carInformation.clear() # Sözlüğün içindeki tüm elemanları sielr
 
