@@ -10,5 +10,4 @@ d = "1" # Bir Integer değildir!
 print(a)
 print(type(a))
 
-print(tpye(d))
-
+print(type(d))
