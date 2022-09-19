@@ -16,9 +16,9 @@ print(students)
 
 #* 3 - ) "years" dizisindeki her doğum yılı için yaş bilgisini içeren liste oluşturunuz.
 
-year = 2022
+current_year = 2022
 
-years = [2022 - age for age in years]
+years = [f"Doğum Yılı: {year} - Yaş: {current_year - year}" for year in years]
 print(years)
 
 #* 4 - ) verilen "string" içindeki rakamları içeren bir liste oluşturunuz.
